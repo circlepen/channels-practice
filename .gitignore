@@ -1,3 +1,4 @@
-data/
 *.pyc
 .vscode
+data/
+backend/static/admin/
